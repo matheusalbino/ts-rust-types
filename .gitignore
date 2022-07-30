@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+lib/
+tsconfig.tsbuildinfo
+
+# IDE/Editor
+.idea
+.vscode
+
+# Test
+coverage/
+
+# Misc
+.DS_Store
